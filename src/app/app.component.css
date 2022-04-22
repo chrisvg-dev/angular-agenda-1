@@ -1,0 +1,25 @@
+span {
+    display: block;
+}
+
+.card {
+    margin: 0;
+    padding: 0;
+}
+
+.card-body {
+    padding: 0;
+}
+
+.header {
+    background-color: rgb(78, 97, 84);
+    color: #f3f3f3;
+    text-align: center;
+    padding-top: 0.5em;;
+    padding-bottom: 0.5em;
+}
+
+.blockquote-custom {
+    position: relative;
+    font-size: 1.1rem;
+  }
